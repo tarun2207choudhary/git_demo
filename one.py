@@ -6,3 +6,6 @@ def sub(x,y):
     print(x-y)
 def mul(x,y):
     print(x*y)
+
+print("hello world")
+
